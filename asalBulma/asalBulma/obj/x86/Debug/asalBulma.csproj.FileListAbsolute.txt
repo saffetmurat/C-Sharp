@@ -1,0 +1,10 @@
+D:\genel_bilgiler\yedeklenmeyen\kodlar\asalBulma\asalBulma\bin\Debug\asalBulma.exe
+D:\genel_bilgiler\yedeklenmeyen\kodlar\asalBulma\asalBulma\bin\Debug\asalBulma.pdb
+D:\genel_bilgiler\yedeklenmeyen\kodlar\asalBulma\asalBulma\obj\x86\Debug\asalBulma.exe
+D:\genel_bilgiler\yedeklenmeyen\kodlar\asalBulma\asalBulma\obj\x86\Debug\asalBulma.pdb
+F:\Kodlar\C#\Benim Yaptıklarım\asalBulma\asalBulma\bin\Debug\asalBulma.exe
+F:\Kodlar\C#\Benim Yaptıklarım\asalBulma\asalBulma\bin\Debug\asalBulma.pdb
+F:\Kodlar\C#\Benim Yaptıklarım\asalBulma\asalBulma\obj\x86\Debug\asalBulma.csprojAssemblyReference.cache
+F:\Kodlar\C#\Benim Yaptıklarım\asalBulma\asalBulma\obj\x86\Debug\asalBulma.csproj.CoreCompileInputs.cache
+F:\Kodlar\C#\Benim Yaptıklarım\asalBulma\asalBulma\obj\x86\Debug\asalBulma.exe
+F:\Kodlar\C#\Benim Yaptıklarım\asalBulma\asalBulma\obj\x86\Debug\asalBulma.pdb
